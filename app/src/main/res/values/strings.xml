@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"Product Details"</string>
+    <string name="xt1">Fresh Homemade Burger</string>
+    <string name="xt2">Price:</string>
+    <string name="xt3">$5</string>
+    <string name="xt4">(215)</string>
+    <string name="xt5">Description</string>
+    <string name="xt6">Lorem ipsum dolor sit arnet, consectetur adipsicing elit. Suspendisse sed leo teilus. Praesent nec vehicula liguia, non laoreet ligula. Maecenas at massa eget orci porttitor semper. sed lobortis magna in faucibus commodo. Ut purus odio, gravida sit amet lacreet at, dicturn et uma</string>
+
+</resources>
